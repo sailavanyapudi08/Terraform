@@ -1,0 +1,1 @@
+This repository serves as a centralized hub for managing Terraform projects. It includes infrastructure-as-code configurations to provision, maintain, and scale cloud resources efficiently. Each subdirectory represents a unique project or environment (e.g., development, staging, production), following best practices for modularity and reusability.
